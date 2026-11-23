@@ -15,14 +15,14 @@ Exploring randomized [flood fill algorithms](https://en.wikipedia.org/wiki/Flood
 Creating hexagonal patterns on a grids using floodfill as the basis for growing lines rendered procedurally.
 
 ![Hex pattern example](https://github.com/Hugo-Suricate/creative-coding/blob/main/illustration/hex-976.png "hex-976")
-![Animated hex pattern](https://github.com/Hugo-Suricate/creative-coding/blob/main/illustration/hex-720.png "hex-720")
+![Animated hex pattern](https://github.com/Hugo-Suricate/creative-coding/blob/main/illustration/hex-720.gif "hex-720")
 
 ## PenroseMaze/gen-penrose-svg (WIP)
 
 Exploring penrose kite-and-dart tilings to create original maze-like structures. The complex aperiodicity of penrose tilings makes it impossible to represent tiles in a grid-like structure. Custom graph representations are then necessary to generate and represent tiling connexions.
 
-![Penrose graph](https://github.com/Hugo-Suricate/creative-coding/blob/main/illustration/penrose-graph.png "penrose-graph")
+![Penrose graph](https://github.com/Hugo-Suricate/creative-coding/blob/main/illustration/penrose_graph.png "penrose-graph")
 
 Penrose tiles are intrinsically related to connected circle arcs with 2 possible radii, which allows this kind of representations.
 
-![Penrose circles](https://github.com/Hugo-Suricate/creative-coding/blob/main/illustration/hex-720.png "penrose-circles")
+![Penrose circles](https://github.com/Hugo-Suricate/creative-coding/blob/main/illustration/penrose_circles.png "penrose-circles")
